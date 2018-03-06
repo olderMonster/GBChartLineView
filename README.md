@@ -49,4 +49,5 @@
 3.以上只是部分属性设置，还有部分属性未展示，具体使用可以参考.h文件中的注释说明。
 目前还没有添加点击显示等操作事件，后期会考虑添加一些其他的相关功能。
 
-![](ttps://github.com/olderMonster/GBChartLineView/blob/master/ScreenShot/Simulator%20Screen%20Shot%20-%20iPhone%206s%20Plus%20-%202018-03-06%20at%2015.54.04.png)
+//以下是展示了数据点的折线图
+![](https://github.com/olderMonster/GBChartLineView/blob/master/ScreenShot/Simulator%20Screen%20Shot%20-%20iPhone%206s%20Plus%20-%202018-03-06%20at%2015.54.04.png)
