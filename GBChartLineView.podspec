@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "GBChartLineView"
-  s.version      = "0.0.5"
+  s.version      = "0.0.6"
   s.summary      = "简单的折线图"
 
   # This description is used to generate tags and improve search results.
@@ -91,7 +91,8 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "GBChartsLineView/GBChartsLineView/*.{h,m}"
+  s.source_files  = "GBChartsLineView"
+#"GBChartsLineView/GBChartsLineView/*.{h,m}"
   #s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
