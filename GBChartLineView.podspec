@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "GBChartLineView"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "简单的折线图"
 
   # This description is used to generate tags and improve search results.
