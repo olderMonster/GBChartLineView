@@ -50,5 +50,7 @@
 目前还没有添加点击显示等操作事件，后期会考虑添加一些其他的相关功能。
 
 //以下是展示了数据点的折线图
-#![](https://github.com/olderMonster/GBChartLineView/blob/master/ScreenShot/Simulator%20Screen%20Shot%20-%20iPhone%206s%20Plus%20-%202018-03-06%20at%2015.54.04.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+#![](https://github.com/olderMonster/GBChartLineView/blob/master/ScreenShot/Simulator%20Screen%20Shot%20-%20iPhone%206s%20Plus%20-%202018-03-06%20at%2015.54.04.png)
+
+<img width="320" asign='center' src="https://github.com/olderMonster/GBChartLineView/blob/master/ScreenShot/Simulator%20Screen%20Shot%20-%20iPhone%206s%20Plus%20-%202018-03-06%20at%2015.54.04.png"/>
 
